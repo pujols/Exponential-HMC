@@ -7,6 +7,9 @@ Wei-Lun Chao, Justin Solomon, Dominik Michels, and Fei Sha, "Exponential Integra
 
 The codes are not fully ready yet. If you have any problem with them, please email weilunc@usc.edu, thanks.
 
+Please download "liblinear" 1.96 and put it into the BLR folder, for efficiently computing the mode for Laplace approximation.
+http://www.csie.ntu.edu.tw/~cjlin/liblinear/
+
 To compare with Riemannian Manifold HMC and Lagrangian HMC, please download the codes from the authors at:
 RHMHC: http://www.dcs.gla.ac.uk/inference/rmhmc/   LMC: http://www.ics.uci.edu/~babaks/Site/Codes.html
 
