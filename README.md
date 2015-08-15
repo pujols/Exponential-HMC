@@ -12,8 +12,9 @@ Please download "liblinear" 1.96 and put it into the BLR folder, for efficiently
 http://www.csie.ntu.edu.tw/~cjlin/liblinear/
 
 To compare with Riemannian Manifold HMC and Lagrangian HMC, please download the codes from the authors at:
-RHMHC: http://www.dcs.gla.ac.uk/inference/rmhmc/   LMC: http://www.ics.uci.edu/~babaks/Site/Codes.html
-** The package of RMHMC also contains the evaluation codes (i.e., for computing the effective sample size) **
+- RHMHC: http://www.dcs.gla.ac.uk/inference/rmhmc/
+- LMC: http://www.ics.uci.edu/~babaks/Site/Codes.html
+- ** The package of RMHMC also contains the evaluation codes (i.e., for computing the effective sample size) **
 
 # Updated History:
 - 5/18/2015: Codes for BLR are ready
