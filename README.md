@@ -19,3 +19,4 @@ To compare with Riemannian Manifold HMC and Lagrangian HMC, please download the 
 # Updated History:
 - 5/18/2015: Codes for BLR are ready
 - 8/15/2015: Data for MNIST/ICA are ready; The codes will be ready soon
+- 8/26/2015: new package is uploaded. BLR/BLR_MNIST/ICA are ready, thanks
